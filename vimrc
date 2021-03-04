@@ -11,4 +11,3 @@ set history=50          " keep 50 lines of command line history
 imap jj <Esc>
 cmap jj <Esc>
 map ; :
-colorscheme torte
